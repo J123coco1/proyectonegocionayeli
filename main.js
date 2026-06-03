@@ -10,7 +10,7 @@
 
 let impuestousa = 1.08;
 let impuestomxn = 1.16;
-let preciodlls = 17.50;
+let preciodlls = 17.40;
 let isr = 1.025;
 
 function operacion() {
